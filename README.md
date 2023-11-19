@@ -1,2 +1,2 @@
 # anonymous-info.com
-This website contains some guide to become a Hacker and stay anonymous on the web
+This website contains some information for someome want to get into Hacking or Cybersecurity field and this is very helpful because it has a roadmaps and some advices and guides as well.
