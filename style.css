@@ -208,7 +208,7 @@ div .social-icons a{
     text-align: justify;
     justify-content:flex-end;
     padding: 5px 30px;
-    margin-bottom: 20px 50px;
+    margin-bottom: 20px;
 }
 
 .title-blog{
@@ -231,8 +231,15 @@ div .social-icons a{
     text-align: justify;
     font-size: 1.1rem;
     font-weight: 400;
-    line-height: 20px;
+    line-height: 25px;
     color: #fff;
+}
+last-underline {
+    font-size: 1.1rem;
+    font-weight: 400;
+    color: #fff;
+    line-height: 25px;
+    padding: 10px;
 }
 
 .last-line {
