@@ -184,7 +184,7 @@ div .social-icons a{
 }
 .image{
     width: 100%;
-    margin: 200px 0;
+    margin: 20px 0;
 }
 
 .main-title{
@@ -196,7 +196,7 @@ div .social-icons a{
     justify-content:center;
     text-align: justify;
     padding: 10px 30px;
-    margin-bottom: 30px 50px;
+    margin-bottom: 30px;
 }
 
 .main-blog{
@@ -208,7 +208,7 @@ div .social-icons a{
     text-align: justify;
     justify-content:flex-end;
     padding: 5px 30px;
-    margin-bottom: 200px 50px;
+    margin-bottom: 20px;
 }
 
 .title-blog{
