@@ -375,8 +375,7 @@ div .social-icons a{
     display: flex;
     justify-content: center;
     text-align: center;
-    padding: 10px;
-    margin-top: 5px;
+    padding: 0 15px 0 15px;
 }
 
 .footer-title{
@@ -512,7 +511,7 @@ div .social-icons a{
     
     .footer .social-icons a{
         font-size: 1.5rem;
-        padding: 0 1px 0 0;
+        padding: 0 15px 0 15px;
     }
 
 }
