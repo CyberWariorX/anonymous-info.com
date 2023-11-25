@@ -332,9 +332,9 @@ div .social-icons a{
     text-align: center;
     font-size: 1.7em;
     text-align: center;
-    font-weight: 500;
+    font-weight: 700;
     word-spacing: 1.5px;
-    margin: 3rem 0 8rem 0;
+    margin: 3rem 0 5rem 0;
 }
 .card{
     background-color: #000016;
@@ -376,6 +376,7 @@ div .social-icons a{
     justify-content: center;
     text-align: center;
     padding: 0 15px 0 15px;
+    margin-top: 20px;
 }
 
 .footer-title{
